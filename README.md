@@ -16,6 +16,7 @@ Calculated the average of the previous three weeks' sales and used it as the for
 ## Weighted Average:
 Assigned weights 𝛼!"# = 0.5, 𝛼!"$ = 0.3, 𝛼!"% = 0.2 to the sales of the previous three weeks.
 Computed the weighted sum of the sales to obtain the forecast for the current week.
+
 ![image](https://github.com/JeevanBhargav/Weekly-Sales-Forecasting/assets/130612387/9c6ced71-f6be-4f1f-a95e-6e5515c254e6)
 ![image](https://github.com/JeevanBhargav/Weekly-Sales-Forecasting/assets/130612387/d5112138-7f30-4797-8e94-321f1a8c987c)
 
