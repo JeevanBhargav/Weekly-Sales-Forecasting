@@ -27,15 +27,16 @@ Generated the forecast by adding a percentage of the forecast error (previous fo
 
 ## Linear Regression:
 Conducted linear regression analysis considering all predictor variables (holiday, temperature, fuel price, CPI, unemployment).
-### Generated the coefficients of the intercept and factors influencing demand using Regression in Data Analysis Add-on.
+Generated the coefficients of the intercept and factors influencing demand using Regression in Data Analysis Add-on.
 ![Screenshot 2023-05-30 082545](https://github.com/JeevanBhargav/Weekly-Sales-Forecasting/assets/130612387/7e5ce238-b7ce-4b98-bf79-25c902f05350)
 ![image](https://github.com/JeevanBhargav/Weekly-Sales-Forecasting/assets/130612387/3589def5-50e9-4920-a376-c6abd103f400)
 
+Utilized the formula: intercept + sumprod(factor coeff * factor actual values) to forecast sales based on the regression model.
+![image](https://github.com/JeevanBhargav/Weekly-Sales-Forecasting/assets/130612387/9dd41a5d-c5f2-486f-93ed-de2e1a8ce03e)
 
 ![image](https://github.com/JeevanBhargav/Weekly-Sales-Forecasting/assets/130612387/f894e186-cbf2-4cd2-b15f-ad24bf597f57)
 
 
-### Utilized the formula: intercept + sumprod(factor coeff * factor actual values) to forecast sales based on the regression model.
 
 
 
